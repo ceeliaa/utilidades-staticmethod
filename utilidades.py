@@ -1,4 +1,4 @@
-# utilidades.py
+# URL github: https://github.com/ceeliaa/utilidades-staticmethod.git
 
 class Utilidades:
 
@@ -72,4 +72,3 @@ if __name__ == "__main__":
     print(Utilidades.suma_digitos(12345))
     print(Utilidades.suma_digitos(-90210))
 
-    
